@@ -1,0 +1,22 @@
+.cart-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.quantity-control button {
+  margin: 0 5px;
+}
+
+.cart-summary {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
